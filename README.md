@@ -1,5 +1,7 @@
 # Complete Python Developer in 2020: Zero to Mastery
 
+![Monty Python](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
+
 This repository contains all the codes and notes, which I prepared when I was pursuing this [course](https://www.udemy.com/share/101URkAkIZdlpbR3w=/) by [@aneagoie](https://github.com/aneagoie).
 
 I have added all these codes (which also contains my notes inside the .py file itself as #comments) because I thought that it might help the community and fellow students to get everything at one place, and it will help them in learning and debugging the code, it will also save immense amount of time and frustration, and later for the revision purposes as well (just like the cheatsheet.pdf given at the very end of the course).
